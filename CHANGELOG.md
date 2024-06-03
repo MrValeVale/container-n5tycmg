@@ -1,3 +1,15 @@
+# v0.0.3 (Mon Jun 03 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Create hello.html ([@MrValeVale](https://github.com/MrValeVale))
+
+#### Authors: 1
+
+- [@MrValeVale](https://github.com/MrValeVale)
+
+---
+
 # v0.0.2 (Mon Jun 03 2024)
 
 #### ⚠️ Pushed to `main`
